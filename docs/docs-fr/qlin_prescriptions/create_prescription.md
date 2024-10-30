@@ -1,4 +1,3 @@
-NOT TRANSLATED
 # Créer une nouvelle prescription
 
 Pour créer une nouvelle prescription d’analyse et de requêtes pour un patient ou une famille, cliquez sur le bouton ‘Créer une nouvelle prescription’ situé sur la page d’accueil.

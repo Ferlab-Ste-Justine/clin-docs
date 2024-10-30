@@ -17,7 +17,17 @@
       name: '',
       repo: '',
       loadSidebar: true,
-      subMaxLevel: 2
+      loadNavbar: true,
+      subMaxLevel: 2,
+      alias: {
+        '/fr/(.*)': '/docs-fr/$1',
+        '/en/(.*)': '/$1',
+        '/.*/_navbar.md': '/_navbar.md',
+      },
+      nameLink: {
+        '/fr/': '#/fr/',
+        '/': '#/',
+      },
     }
   </script>
   <!-- Docsify v4 -->

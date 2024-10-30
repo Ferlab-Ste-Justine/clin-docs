@@ -1,0 +1,2 @@
+- Prescriptions
+  - [Créer une nouvelle prescription](fr/qlin_prescriptions/create_prescription.md)
