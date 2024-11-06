@@ -2,6 +2,8 @@
 
 Pour créer une nouvelle prescription d’analyse et de requêtes pour un patient ou une famille, cliquez sur le bouton ‘Créer une nouvelle prescription’ situé sur la page d’accueil.
 
+![Créer une nouvelle prescription](create_prescription_dashboard_button.png 'Créer une nouvelle prescription')
+
 ## Choix de l’analyse
 
 Utilisez la zone combinée pour sélectionner la condition et le panel de gènes à analyser. Les signes cliniques, les membres de la famille et l’analyse prescrite dépendront de la condition sélectionnée.

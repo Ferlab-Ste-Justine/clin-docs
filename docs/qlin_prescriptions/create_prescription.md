@@ -1,3 +1,7 @@
+
+![Créer une nouvelle prescription](create_prescription_dashboard_button.png 'Créer une nouvelle prescription')
+
+
 # Create a New Prescription
 
 To create a new analysis and request prescription for a patient or family, click the ‘Create a New Prescription’ button on the homepage.
