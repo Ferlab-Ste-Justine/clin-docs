@@ -8,7 +8,7 @@ Use the combo box to select the condition and gene panel to be analyzed. The cli
 
 ## (1) Patient Identification
 
-Once the prescribing institution is selected, entering the file number and/or RAMQ number is necessary to identify the patient. If the patient already exists in Qlin, their information will be displayed and editable. Otherwise, identification information must be entered before proceeding to the next step of the form.
+Once the prescribing institution is selected, entering the medical record number (MRN) and/or RAMQ number is necessary to identify the patient. If the patient already exists in Qlin, their information will be displayed and editable. Otherwise, identification information must be entered before proceeding to the next step of the form.
 
 Identification information for a fetus or newborn can be entered in the ‘Additional Information’ section if needed.
 
