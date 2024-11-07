@@ -34,3 +34,7 @@ Une fois la case “Rapporter des conditions de santé pertinentes” cochée, i
 Indiquez la présence de consanguinité et l’ethnicité du patient.
 
 Rédigez l’hypothèse diagnostique dans le champ de texte libre prévu à cet effet. La saisie d’une hypothèse diagnostique est obligatoire pour soumettre une prescription.
+
+## (5) Soumission
+
+Révisez la prescription et ajoutez un commentaire général si nécessaire avant de la soumettre.

@@ -1,2 +1,2 @@
 - Prescriptions
-  - [Créer une nouvelle prescription](qlin_prescriptions/create_prescription.md)
+  - [Create a New Prescription](qlin_prescriptions/create_prescription.md)

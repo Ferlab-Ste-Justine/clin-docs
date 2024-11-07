@@ -1,7 +1,3 @@
-
-![Créer une nouvelle prescription](create_prescription_dashboard_button.png 'Créer une nouvelle prescription')
-
-
 # Create a New Prescription
 
 To create a new analysis and request prescription for a patient or family, click the ‘Create a New Prescription’ button on the homepage.
@@ -35,3 +31,7 @@ Once the “Report Relevant Health Conditions” box is checked, it is possible 
 Indicate the presence of consanguinity and the patient’s ethnicity.
 
 Write the diagnostic hypothesis in the free text field provided. Entering a diagnostic hypothesis is mandatory to submit a prescription.
+
+## (5) Submit
+
+Review the prescription and add a general comment if necessary before submitting it.
