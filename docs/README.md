@@ -1,3 +1,3 @@
-# Headline
+# Qlin
 
-> An awesome project.
+> Centre québécois de génomique clinique : Qlin.
