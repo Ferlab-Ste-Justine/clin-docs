@@ -2,6 +2,8 @@
 
 To create a new analysis and request prescription for a patient or family, click the ‘Create a New Prescription’ button on the homepage.
 
+![Create a prescription button](create_prescription_dashboard_button.png)
+
 ## Analysis Selection
 
 Use the combo box to select the condition and gene panel to be analyzed. The clinical signs, family members, and prescribed analysis will depend on the selected condition.

@@ -2,7 +2,7 @@
 
 Pour créer une nouvelle prescription d’analyse et de requêtes pour un patient ou une famille, cliquez sur le bouton ‘Créer une nouvelle prescription’ situé sur la page d’accueil.
 
-![Créer une nouvelle prescription](create_prescription_dashboard_button.png 'Créer une nouvelle prescription')
+![Créer une nouvelle prescription](create_prescription_dashboard_button.png)
 
 ## Choix de l’analyse
 
