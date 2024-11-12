@@ -14,11 +14,11 @@ La première partie de cette section affiche les informations cliniques liées a
 
 ## Information familiale
 
-Si une ou plusieurs requêtes et analyses ont été demandées pour les membres de la famille du patient, alors celles-ci seront affichées dans les sections suivant l’information clinique du cas-index. Une section par membre de la famille sera affichée. La première partie de ces sections contient les informations d’identification du membre de la famille. Selon vos droits d’accès, il est possible que seul l’identifiant soit disponible comme information. La deuxième partie liste les requêtes et analyses liées, similaire à la deuxième partie de la section [Information clinique cas-index](#information-clinique-cas-index).
+Si une ou plusieurs requêtes et analyses ont été demandées pour les membres de la famille du patient, alors celles-ci seront affichées dans les sections suivant la section [Information clinique cas-index](#information-clinique-cas-index). Une section par membre de la famille sera affichée. La première partie de ces sections contient les informations d’identification du membre de la famille. Selon vos droits d’accès, il est possible que seul l’identifiant soit disponible comme information. La deuxième partie liste les requêtes et analyses liées, similaire à la deuxième partie de la section [Information clinique cas-index](#information-clinique-cas-index).
 
 ## Analyse bioinformatique
 
-L’information détaillée sur l’analyse bioinformatique est accessible via l’hyperlien sur l’identifiant de l’analyse dans la section [Information clinique cas-index](#information-clinique-cas-index) ou [Information familiale](#information-familiale). La section ‘Analyse’ identifie le patient, le type d’analyse ainsi que le laboratoire ayant effectué l’analyse. La section ‘Pipeline’ indique le nom, la version et le génome de référence. La section ‘Séquençage’ affiche les informations détaillées du séquenceur lié à l’analyse. Les sections ‘Échantillons’ et ‘Fichiers de données’ affichent les données liées à la requête.
+L’information détaillée sur l’analyse bioinformatique est accessible via l’hyperlien sur l’identifiant de l’analyse dans la section [Information clinique cas-index](#information-clinique-cas-index) ou [Information familiale](#information-familiale). La section **Analyse** identifie le patient, le type d’analyse ainsi que le laboratoire ayant effectué l’analyse. La section **Pipeline bioinformatique** indique le nom, la version et le génome de référence. La section **Séquençage** affiche les informations détaillées du séquenceur lié à l’analyse. Les sections **Échantillons** et **Fichiers de données** affichent les données liées à la requête.
 
 ## Imprimer / Télécharger PDF
 
