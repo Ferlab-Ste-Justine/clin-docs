@@ -4,3 +4,4 @@
 - Qlin Genetic
   - Prescriptions
     - [Details](qlin_genetic/prescription/details.md)
+    - [Filter Sidebar](qlin_genetic/filter_panel/filter_panel.md)

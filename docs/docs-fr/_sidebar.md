@@ -6,3 +6,4 @@
     - [Détails](fr/qlin_genetic/prescription/details.md)
 - Références
   - [Tables](fr/qlin_genetic/tables/tables.md)
+  - [Panneau latéral de filtres](fr/qlin_genetic/filter_panel/filter_panel.md)
