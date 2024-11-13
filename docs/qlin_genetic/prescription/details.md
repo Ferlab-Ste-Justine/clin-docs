@@ -14,11 +14,11 @@ The first part of this section displays the clinical information related to the 
 
 ## Family Information
 
-If one or more requests and analyses have been made for the patient’s family members, they will be displayed in the sections following the [Clinical Information Proband section](#clinical-information-proband). A section for each family member will be displayed. The first part of these sections contains the identification information of the family member. Depending on your access rights, only the identifier may be available as information. The second part lists the related requests and analyses, similar to the second part of the [Clinical Information Proband section](#clinical-information-proband).
+If one or more requests and analyses have been made for the patient’s family members, they will be displayed in the sections following the [Clinical Information Proband](#clinical-information-proband) section. A section for each family member will be displayed. The first part of these sections contains the identification information of the family member. Depending on your access rights, only the identifier may be available as information. The second part lists the related requests and analyses, similar to the second part of the [Clinical Information Proband](#clinical-information-proband) section.
 
 ## Bioinformatics Analysis
 
-Detailed information on the bioinformatics analysis is accessible via the hyperlink on the analysis identifier in the [Clinical Information Proband section](#clinical-information-proband) or the [Family Information section](#family-information). The **Analysis** section identifies the patient, the type of analysis, and the laboratory that performed the analysis. The **Bioinformatic Pipeline** section indicates the name, version, and reference genome. The **Sequencing** section displays detailed information about the sequencer related to the analysis. The **Samples** and **Data Files** sections display the data related to the request.
+Detailed information on the bioinformatics analysis is accessible via the hyperlink on the analysis identifier in the [Clinical Information Proband](#clinical-information-proband) section or the [Family Information](#family-information) section. The **Analysis** section identifies the patient, the type of analysis, and the laboratory that performed the analysis. The **Bioinformatic Pipeline** section indicates the name, version, and reference genome. The **Sequencing** section displays detailed information about the sequencer related to the analysis. The **Samples** and **Data Files** sections display the data related to the request.
 
 ## Print / Download PDF
 
