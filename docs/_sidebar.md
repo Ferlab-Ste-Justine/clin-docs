@@ -1,2 +1,6 @@
-- Prescriptions
+- Qlin Prescriptions
   - [Create a New Prescription](qlin_prescriptions/create_prescription.md)
+  - [My prescriptions](qlin_prescriptions/my_prescription.md)
+- Qlin Genetic
+  - Prescriptions
+    - [Details](qlin_genetic/prescription/details.md)
