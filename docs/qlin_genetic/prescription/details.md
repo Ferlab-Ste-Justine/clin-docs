@@ -6,7 +6,7 @@ The analysis section displays the status, priority, and type of the requested an
 
 ## Patient
 
-The patient section displays information about the patient (index case) of the analysis. Depending on your access rights, only the identifier may be available as information. These fields are read-only.
+The patient section displays information about the patient (proband case) of the analysis. Depending on your access rights, only the identifier may be available as information. These fields are read-only.
 
 ## Clinical Information Proband
 
