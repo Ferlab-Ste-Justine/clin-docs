@@ -1,6 +1,6 @@
 # Filter Sidebar
 
-It is possible to filter the data displayed in a table with the help of the Filter Sidebar available to the left of the table.
+It is possible to filter the data displayed in a table with the help of the filter sidebar available to the left of the table.
 
 ## Show and Hide
 
@@ -16,7 +16,7 @@ A magnifying glass 🔎 located in the filter title allows you to search and fil
 
 ### Range Filter
 
-This type of filter allows you to specify a minimum value (Less than, Less than or equal to), a maximum value (Greater than, Greater than or equal to), or a range (Between).
+This type of filter allows you to specify a minimum value (Less than, Less than or equal), a maximum value (Greater than, Greater than or equal), or a range (Between).
 
 ## Applying a filter
 
