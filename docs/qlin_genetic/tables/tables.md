@@ -1,4 +1,4 @@
-# Using tables
+# Using Tables
 
 The table functionalities throughout the application are identical.
 
@@ -12,7 +12,7 @@ Table pagination is controlled in the footer. A combo box allows specifying the 
 
 The records displayed on the current page as well as the total number of records are available in the table header.
 
-## Column visibility and ordering
+## Column Visibility and Ordering
 
 The visibility of columns in a table can be controlled using the checkboxes displayed by the gear button ⚙ located to the right of the table header. Note that some columns cannot be hidden.
 
@@ -20,6 +20,6 @@ It is possible to change the display order of columns by dragging and dropping t
 
 The visibility and order of columns in a table are saved in the user's profile. It is possible to reset the visibility and order to the application's default settings using the **Reset** hyperlink located at the bottom of the checkboxes displayed by the gear button ⚙.
 
-## Exporting data
+## Exporting Data
 
 The export of data contained in a table to TSV format is done using the download button ![bouton de téléchargement](download_button.png) located to the right of the table header.
