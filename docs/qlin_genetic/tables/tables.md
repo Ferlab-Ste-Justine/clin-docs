@@ -16,7 +16,7 @@ The records displayed on the current page as well as the total number of records
 
 The visibility of columns in a table can be controlled using the checkboxes displayed by the gear button ⚙ located to the right of the table header. Note that some columns cannot be hidden.
 
-It is possible to change the display order of columns by dragging and dropping them directly in the table or in the list displayed by the gear button. Note that the order of some columns cannot be modified.
+It is possible to change the display order of columns by dragging and dropping them in the list displayed by the gear button. Note that the order of some columns cannot be modified.
 
 The visibility and order of columns in a table are saved in the user's profile. It is possible to reset the visibility and order to the application's default settings using the **Reset** hyperlink located at the bottom of the checkboxes displayed by the gear button ⚙.
 

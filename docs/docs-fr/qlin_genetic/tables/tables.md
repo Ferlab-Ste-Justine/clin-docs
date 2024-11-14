@@ -16,7 +16,7 @@ Les enregistrements affichés dans la page courante ainsi que le nombre total d�
 
 La visibilité des colonnes dans un tableau peut être contrôlée à l’aide des cases à cocher affichées par le bouton engrenage ⚙ situé à droite de l’entête d’un tableau. Notez que certaines colonnes ne peuvent pas être cachées.
 
-Il est possible de modifier l’ordre d’affichage des colonnes en les glissant-déposant directement dans le tableau ou dans la liste affichée par le bouton engrenage. Notez que l’ordonnancement de certaines colonnes ne peut pas être modifié.
+Il est possible de modifier l’ordre d’affichage des colonnes en les glissant-déposant dans la liste affichée par le bouton engrenage. Notez que l’ordonnancement de certaines colonnes ne peut pas être modifié.
 
 La visibilité et l’ordonnancement des colonnes d’un tableau sont sauvegardés dans le profil de l’utilisateur. Il est possible de réinitialiser la visibilité et l’ordonnancement selon la configuration de base de l’application avec l’hyperlien **Réinitialiser** situé en bas des cases à cocher affichées par le bouton engrenage ⚙.
 
