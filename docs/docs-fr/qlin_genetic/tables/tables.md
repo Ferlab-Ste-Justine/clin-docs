@@ -4,7 +4,7 @@ Les fonctionnalités des tableaux à travers l’application sont identiques.
 
 ## Ordonnancement
 
-Lorsqu’une colonne peut être utilisée pour ordonner un tableau, une icône ![chevron haut-bas](updown_caret.png) est affichée. Un clic sur le titre de la colonne alterne entre un ordre ascendant et descendant.
+Lorsqu’une colonne peut être utilisée pour ordonner un tableau, une icône ![chevron haut-bas](updown_caret.png) est affichée. Un clic sur le titre de la colonne alterne entre un ordre ascendant, descendant et aucun tri.
 
 ## Pagination
 

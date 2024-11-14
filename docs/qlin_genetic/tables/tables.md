@@ -4,7 +4,7 @@ The table functionalities throughout the application are identical.
 
 ## Sorting
 
-When a column can be used to sort a table, an icon ![chevron haut-bas](updown_caret.png) is displayed. Clicking on the column header toggles between ascending and descending order.
+When a column can be used to sort a table, an icon ![chevron haut-bas](updown_caret.png) is displayed. Clicking on the column header toggles between ascending order, descending order and no sorting.
 
 ## Paging
 
