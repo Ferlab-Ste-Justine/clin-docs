@@ -8,7 +8,7 @@ When a column can be used to sort a table, an icon ![chevron haut-bas](updown_ca
 
 ## Paging
 
-Table pagination is controlled in the footer. A combo box allows specifying the number of records per page. The **Previous** and **Next** buttons allow changing pages. The **First** button allows returning to the first page.
+Table pagination is controlled in the footer. A combo box allows specifying the number of records per page. The **Prev.** and **Next** buttons allow changing pages. The **First** button allows returning to the first page.
 
 The records displayed on the current page as well as the total number of records are available in the table header.
 
