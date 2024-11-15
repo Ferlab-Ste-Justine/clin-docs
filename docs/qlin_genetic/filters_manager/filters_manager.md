@@ -46,6 +46,10 @@ When selecting multiple queries using the checkboxes to the left of the query na
 
 The 🗑️ icon located to the right of a query’s banner deletes that query.
 
+## Delete All Queries
+
+When there is more than one query, the **Clear All** hyperlink allows you to delete all queries with a single click.
+
 ### Field Visibility
 
 The **Labels** switch allows you to control the visibility of field labels in queries. When it is in the off position, only the filter values will be displayed in the queries.
