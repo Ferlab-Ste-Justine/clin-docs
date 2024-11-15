@@ -18,6 +18,14 @@ A magnifying glass 🔎 located in the filter title allows you to search and fil
 
 This type of filter allows you to specify a minimum value (Less than, Less than or equal), a maximum value (Greater than, Greater than or equal), or a range (Between).
 
-## Applying a filter
+## Applying a Filter
 
 Once the values are selected in the filter, the **Apply** button allows you to apply them to the table.
+
+### Applying a Multi-select Filter
+
+The **…** button beside the **Apply** button allows you to specify how the selected values are combined in the filter using Any of, All of or None off.
+
+- **Any of**: This option means that the filter will include items that match any of the selected values. For example, if you select “Red” and “Blue” and use “Any of,” the filter will show items that are either red or blue.
+- **All of**: This option means that the filter will include items that match all of the selected values simultaneously. For example, if you select “Red” and “Blue” and use “All of,” the filter will show items that are both red and blue at the same time.
+- **None of**: This option means that the filter will exclude items that match any of the selected values. For example, if you select “Red” and “Blue” and use “None of,” the filter will show items that are neither red nor blue.

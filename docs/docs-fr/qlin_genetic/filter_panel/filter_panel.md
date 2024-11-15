@@ -21,3 +21,11 @@ Ce type de filtre permet de spécifier une valeur minimale (Plus petit que, Plus
 ## Appliquer un filtre
 
 Une fois les valeurs sélectionnées dans le filtre, le bouton **Appliquer** permet de les appliquer au tableau.
+
+### Appliquer un filtre à sélection multiple
+
+Le bouton **…** à côté du bouton **Appliquer** vous permet de spécifier comment les valeurs sélectionnées sont combinées dans le filtre en utilisant N’importe quel, Tout ou Aucun.
+
+- **N’importe quel** : Cette option signifie que le filtre inclura les éléments qui correspondent à l’une des valeurs sélectionnées. Par exemple, si vous sélectionnez “Rouge” et “Bleu” et utilisez “N’importe lequel”, le filtre affichera les éléments qui sont soit rouges, soit bleus.
+- **Tout** : Cette option signifie que le filtre inclura les éléments qui correspondent à toutes les valeurs sélectionnées simultanément. Par exemple, si vous sélectionnez “Rouge” et “Bleu” et utilisez “Tous”, le filtre affichera les éléments qui sont à la fois rouges et bleus en même temps.
+- **Aucun** : Cette option signifie que le filtre exclura les éléments qui correspondent à l’une des valeurs sélectionnées. Par exemple, si vous sélectionnez “Rouge” et “Bleu” et utilisez “Aucun”, le filtre affichera les éléments qui ne sont ni rouges ni bleus.
