@@ -1,4 +1,4 @@
-# Contrôle Qualité
+# Contrôle qualité d'une prescription
 
 L’onglet **CQ** d’une prescription permet de consulter diverses métriques de qualité liées au séquençage d’une requête.
 
@@ -16,7 +16,7 @@ Le bouton **Télécharger le rapport** situé dans l’entête des onglets de m�
 
 ## Couverture génique
 
-Le bouton **Couverture génique** situé dans l’entête de l’onglet à la droite du bouton [Général](#métriques) permet d’afficher le tableau de couverture génique du séquençage
+Le bouton **Couverture génique** situé dans l’entête de l’onglet à la droite du bouton [Général](#métriques) permet d’afficher le tableau de couverture génique du séquençage.
 
 ### Filtres par gène
 
@@ -28,7 +28,7 @@ La zone combinée permet de sélectionner un panel de gènes préconfiguré dans
 
 ### Variants liés au gène
 
-Les hyperliens **SNV** et **CNV** de la colonne Action permettent de créer rapidement une requête et de filtrer le tableau des variants correspondants pour afficher les variants liés au gène de cet enregistrement.
+Les hyperliens **SNV** et **CNV** de la colonne **Action** permettent de créer rapidement une requête et de filtrer le tableau des variants correspondants pour afficher les variants liés au gène de cet enregistrement.
 
 ### OMIM lié au gène
 
