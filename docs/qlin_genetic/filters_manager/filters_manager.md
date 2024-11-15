@@ -30,7 +30,7 @@ The 🗑️ icon deletes the filter as well as all the queries included within i
 
 To create a first query, apply a filter using the filter sidebar.
 
-To create additional queries, use the **New Query** button or duplicate an existing query with the 📑 icon."
+To create additional queries, use the **New query** button or duplicate an existing query with the 📑 icon.
 
 ### Current Query
 
