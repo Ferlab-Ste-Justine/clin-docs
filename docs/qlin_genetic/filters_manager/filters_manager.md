@@ -38,10 +38,14 @@ The current query is identified by a blue background color on its banner. The ta
 
 ### Joins
 
-It is possible to modify the join of the criteria using the **And / Or** hyperlink.
+It is possible to modify the join of the criteria using the **And** / **Or** hyperlink.
 
-When selecting multiple queries using the checkboxes to the left of the query names (Q1, Q2, etc.), the **Combine** button allows you to create a new query with a join of the selected queries. The **…** button allows you to select the join type And / Or.
+When selecting multiple queries using the checkboxes to the left of the query names (Q1, Q2, etc.), the **Combine** button allows you to create a new query with a join of the selected queries. The **…** button allows you to select the join type **And** / **Or**.
 
 ### Deleting a Query
 
 The 🗑️ icon located to the right of a query’s banner deletes that query.
+
+### Field Visibility
+
+The **Labels** switch allows you to control the visibility of field labels in queries. When it is in the off position, only the filter values will be displayed in the queries.

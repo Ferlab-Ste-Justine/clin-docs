@@ -12,7 +12,7 @@ Notez que le fait de sauvegarder un filtre ne fait que conserver les règles du 
 
 ### Nommer un filtre
 
-L’icône crayon ![crayon](editicon.png)permet de modifier le nom du filtre pour le retrouver plus facilement ultérieurement.
+L’icône crayon ![crayon](editicon.png) permet de modifier le nom du filtre pour le retrouver plus facilement ultérieurement.
 
 ### Partager un filtre
 
@@ -38,10 +38,18 @@ La requête en cours est identifiée par une couleur d’arrière-plan bleue sur
 
 ### Jointures
 
-Il est possible de modifier la jointure des critères en utilisant l’hyperlien **Et / Ou**.
+Il est possible de modifier la jointure des critères en utilisant l’hyperlien **Et** / **Ou**.
 
-Lors de la sélection de plusieurs requêtes grâce aux cases à cocher à la gauche du nom des requêtes (Q1, Q2, etc.), le bouton **Combiner** permet de créer une nouvelle requête avec une jointure des requêtes sélectionnées. Le bouton **…** permet de sélectionner le type de jointure *Et* / *Ou*."
+Lors de la sélection de plusieurs requêtes grâce aux cases à cocher à la gauche du nom des requêtes (Q1, Q2, etc.), le bouton **Combiner** permet de créer une nouvelle requête avec une jointure des requêtes sélectionnées. Le bouton **…** permet de sélectionner le type de jointure **Et** / **Ou**."
 
 ### Supprimer une requête
 
 L’icône 🗑️ située à droite du bandeau d’une requête supprime cette requête.
+
+### Supprimer toutes les requêtes
+
+Lorsqu’il y a plus d’une requête, l’hyperlien **Tout effacer** permet d’effacer toutes les requêtes d’un seul clic.
+
+### Visiblité des champs
+
+Le commutateur **Champs** permet de contrôler la visibilité du nom des champs dans les requêtes. Lorsqu’il est en position fermée, seules les valeurs des filtres seront affichées dans les requêtes.
