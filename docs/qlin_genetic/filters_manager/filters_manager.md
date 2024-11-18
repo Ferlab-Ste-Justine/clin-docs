@@ -48,7 +48,7 @@ The 🗑️ icon located to the right of a query’s banner deletes that query.
 
 ## Delete All Queries
 
-When there is more than one query, the **Clear All** hyperlink allows you to delete all queries with a single click.
+When there is more than one query, the **Clear all** hyperlink allows you to delete all queries with a single click.
 
 ### Field Visibility
 
