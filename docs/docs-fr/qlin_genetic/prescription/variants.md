@@ -42,7 +42,7 @@ Cliquez sur la cellule sous la colonne des drapeaux, sur la ligne du tableau cor
 
 ### Filtrer par drapeaux
 
-L'icône ![filtre](flags_filter.png) située dans l'entête de la colonne des drapeaux permet de filtrer le tableau en fonction d'un type de drapeau.
+L'icône ![filtre](filter_icon.png) située dans l'entête de la colonne des drapeaux permet de filtrer le tableau en fonction d'un type de drapeau.
 
 ### Dernière mise à jour du drapeau
 

@@ -42,7 +42,7 @@ Click on the cell under the flags column, on the row of the table corresponding 
 
 ### Filter by Flags
 
-The ![filter](flags_filter.png) icon located in the header of the flags column allows you to filter the table based on a type of flag.
+The ![filter](filter_icon.png) icon located in the header of the flags column allows you to filter the table based on a type of flag.
 
 ### Last Flag Update
 
