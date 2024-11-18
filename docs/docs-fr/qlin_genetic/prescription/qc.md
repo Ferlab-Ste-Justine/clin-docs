@@ -36,4 +36,4 @@ L’hyperlien sur le nom du gène permet de consulter la page liée à celui-ci 
 
 ### Téléchargement du rapport de couverture génique
 
-Le bouton **Télécharger le rapport** situé au-dessus de l’en-tête du tableau permet le téléchargement des données de couverture génique au format CSV.
+Le bouton **Télécharger le rapport** situé au-dessus de l’entête du tableau permet le téléchargement des données de couverture génique au format CSV.

@@ -1,6 +1,6 @@
 # Prescription Quality Control
 
-The **QC**tab of a prescription allows you to view various quality metrics related to the sequencing of a request.
+The **QC** tab of a prescription allows you to view various quality metrics related to the sequencing of a request.
 
 ## Request
 
@@ -8,7 +8,7 @@ The combined area located in the header of the QC tab allows you to select the r
 
 ## Metrics
 
-The **Genera**l** button located in the header of the tab to the right of the combined [Request](#request) area allows you to display the quality metrics.
+The **General** button located in the header of the tab to the right of the combined [Request](#request) area allows you to display the quality metrics.
 
 ### Metrics Report Download
 
@@ -36,4 +36,4 @@ The hyperlink on the gene name allows you to view the page related to it in [OMI
 
 ### Gene Coverage Report Download
 
-The **Download Report** button located above the table header allows you to download the gene coverage data in CSV format.
+The **Download report** button located above the table header allows you to download the gene coverage data in CSV format.
