@@ -10,7 +10,7 @@ La saisie de texte dans la boîte de texte permet de **rechercher par numéro de
 
 ## Consulter
 
-Les [détails d'une prescription ou d'une requête spécifique](fr/qlin_genetic/prescription/details.md) peuvent être consultés à l’aide de l’hyperlien sur son identifiant.
+Les [détails d'une prescription ou d'une requête spécifique](details.md) peuvent être consultés à l’aide de l’hyperlien sur son identifiant.
 
 ## Assignation d'une prescription
 
@@ -18,9 +18,9 @@ L'assignation d'une prescription permet de facilement filtrer la liste des presc
 
 ### Assigner une prescription
 
-Cliquez sur la cellule sous la colonne 👤, sur la ligne du tableau correspondant à la prescription souhaitée, et sélectionnez l'utilisateur dans le menu déroulant affiché. Il est possible de rechercher un utilisateur en saisissant du texte dans la boîte de texte **Rechercher**. Vous pouvez retirer un utilisateur de l'assignation avec le X à droite de son nom.
+Cliquez sur la cellule sous la colonne 👤, sur la ligne du tableau correspondant à la prescription souhaitée, et sélectionnez l'utilisateur dans le menu déroulant affiché. Il est possible de rechercher un utilisateur en saisissant du texte dans la boîte de texte **Rechercher**. Vous pouvez retirer un utilisateur de l'assignation avec le **X** à droite de son nom.
 
-Il est aussi possible d'éditer l'assignation dans les [détails d'une prescription](fr/qlin_genetic/prescription/details.md).
+Il est aussi possible d'éditer l'assignation dans les [détails d'une prescription](details.md).
 
 ### Retirer toutes les assignations
 
