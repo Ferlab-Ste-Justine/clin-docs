@@ -14,7 +14,7 @@ Les boutons situés dans l’entête de l’onglet **Variants**, à droite de la
 
 ## Informations détaillées sur l'occurrence du variant
 
-Le + sur chaque ligne du tableau permet l'affichage d'un panneau imbriqué avec les informations détaillées de l'occurrence du variant pour la requête de séquençage.
+Le **+** sur chaque ligne du tableau permet l'affichage d'un panneau imbriqué avec les informations détaillées de l'occurrence du variant pour la requête de séquençage.
 
 Le bouton Ouvrir IGV affiche les fichiers de séquençage positionnés sur le variant dans l'[Integrative Genomics Viewer](https://igv.org/).
 
@@ -47,4 +47,3 @@ L'icône ![filtre](flags_filter.png) située dans l'entête de la colonne des dr
 ### Dernière mise à jour du drapeau
 
 L'infobulle affichée sur une cellule sous la colonne des drapeaux indique le moment ainsi que l'utilisateur ayant effectué la dernière mise à jour des drapeaux pour ce variant.
-
