@@ -44,7 +44,7 @@ Cliquez sur la cellule sous la colonne des drapeaux, sur la ligne du tableau cor
 
 L'icône ![filtre](flags_filter.png) située dans l'entête de la colonne des drapeaux permet de filtrer le tableau des variants en fonction d'un type de drapeau.
 
-### Dernière mise à jour
+### Dernière mise à jour du drapeau
 
 L'infobulle affichée sur une cellule sous la colonne des drapeaux indique le moment ainsi que l'utilisateur ayant effectué la dernière mise à jour des drapeaux pour ce variant.
 
