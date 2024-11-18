@@ -1,8 +1,8 @@
-# **Prescription Variants**
+# Prescription Variants
 
 The **Variants** tab of a prescription allows for the consultation of SNV and CNV genetic variants detected during the sequencing of a request.
 
-The use of the [Filter Manager](/qlin_genetic/_filter_manager/filter_manager.md) and the [Filter Sidebar](/qlin_genetic/filter_panel/filter_panel.md) facilitates the visualization of variants in the [tables](/qlin_genetic/tables/tables.md).
+The use of the [filter manager](/qlin_genetic/_filter_manager/filter_manager.md) and the [filter sidebar](/qlin_genetic/filter_panel/filter_panel.md) facilitates the visualization of variants in the [tables](/qlin_genetic/tables/tables.md).
 
 ## Request
 
@@ -42,7 +42,7 @@ Click on the cell under the flags column, on the row of the table corresponding 
 
 ### Filter by Flags
 
-The ![filter](flags_filter.png) icon located in the header of the flags column allows you to filter the variants table based on a type of flag.
+The ![filter](flags_filter.png) icon located in the header of the flags column allows you to filter the table based on a type of flag.
 
 ### Last Flag Update
 

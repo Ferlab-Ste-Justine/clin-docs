@@ -2,7 +2,7 @@
 
 L’onglet **Variants** d’une prescription permet la consultation des variants génétiques SNV et CNV détectés lors du séquençage d’une requête.
 
-L'utilisation du [Gestionnaire de filtres](/fr/qlin_genetic/_filter_manager/filter_manager.md) et du [Panneau latéral de filtres](/fr/qlin_genetic/filter_panel/filter_panel.md) facilite la visualisation des variants dans les [tableaux](/fr/qlin_genetic/tables/tables.md).
+L'utilisation du [gestionnaire de filtres](/fr/qlin_genetic/_filter_manager/filter_manager.md) et du [panneau latéral de filtres](/fr/qlin_genetic/filter_panel/filter_panel.md) facilite la visualisation des variants dans les [tableaux](/fr/qlin_genetic/tables/tables.md).
 
 ## Requêtes
 
@@ -16,11 +16,11 @@ Les boutons situés dans l’entête de l’onglet **Variants**, à droite de la
 
 Le **+** sur chaque ligne du tableau permet l'affichage d'un panneau imbriqué avec les informations détaillées de l'occurrence du variant pour la requête de séquençage.
 
-Le bouton Ouvrir IGV affiche les fichiers de séquençage positionnés sur le variant dans l'[Integrative Genomics Viewer](https://igv.org/).
+Le bouton **Ouvrir IGV** affiche les fichiers de séquençage positionnés sur le variant dans l'[Integrative Genomics Viewer](https://igv.org/).
 
 ## Drapeaux
 
-Les drapeaux permettent de mettre un signet sur les variants génétiques d’intérêt d'un requête afin d’y revenir plus tard. Les drapeaux sont accessibles à tous les généticiens du même laboratoire.
+Les drapeaux permettent de mettre un signet sur les variants génétiques d’intérêt d'une requête afin d’y revenir plus tard. Les drapeaux sont accessibles à tous les généticiens du même laboratoire.
 
 Il y a trois types différents de drapeaux :
 
@@ -42,7 +42,7 @@ Cliquez sur la cellule sous la colonne des drapeaux, sur la ligne du tableau cor
 
 ### Filtrer par drapeaux
 
-L'icône ![filtre](flags_filter.png) située dans l'entête de la colonne des drapeaux permet de filtrer le tableau des variants en fonction d'un type de drapeau.
+L'icône ![filtre](flags_filter.png) située dans l'entête de la colonne des drapeaux permet de filtrer le tableau en fonction d'un type de drapeau.
 
 ### Dernière mise à jour du drapeau
 
