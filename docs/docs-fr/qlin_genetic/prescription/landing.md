@@ -24,7 +24,7 @@ Il est aussi possible d'éditer l'assignation dans les [détails d'une prescript
 
 ### Retirer toutes les assignations
 
-Cliquez sur la cellule sous la colonne 👤, sur la ligne du tableau correspondant au variant souhaité, et sélectionnez **Aucune assignation**.
+Cliquez sur la cellule sous la colonne 👤, sur la ligne du tableau correspondant au variant souhaitée, et sélectionnez **Aucune assignation**.
 
 ### Filtrer par assignation
 
