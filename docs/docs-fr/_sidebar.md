@@ -2,11 +2,13 @@
   - [Créer une nouvelle prescription](fr/qlin_prescriptions/create_prescription.md)
   - [Mes prescriptions](fr/qlin_prescriptions/my_prescription.md)
 - Qlin Génétique
-  - Prescriptions
+  - [Prescriptions](fr/qlin_genetic/prescription/landing.md)
     - [Détails](fr/qlin_genetic/prescription/details.md)
     - [Contrôle qualité](fr/qlin_genetic/prescription/qc.md)
     - [Variants](fr/qlin_genetic/prescription/variants.md)
     - [Fichiers](fr/qlin_genetic/prescription/files.md)
+  - [Archives](fr/qlin_genetic/archives.md)
+  - [Exploration](fr/qlin_genetic/exploration.md)
 - Références
   - [Tables](fr/qlin_genetic/tables/tables.md)
   - [Panneau latéral de filtres](fr/qlin_genetic/filter_panel/filter_panel.md)
