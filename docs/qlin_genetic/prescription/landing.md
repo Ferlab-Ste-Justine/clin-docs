@@ -12,20 +12,20 @@ Entering text in the text box allows you to **search by prescription, requisitio
 
 The [details of a specific prescription or request](details.md) can be viewed using the hyperlink on its identifier.
 
-## Assignment of a prescription
+## Assignment of a Prescription
 
 Assigning a prescription allows you to easily filter the list of prescriptions to display only those assigned to a user.
 
-### Assign a prescription
+### Assign a Prescription
 
 Click on the cell under the 👤 column, on the row of the table corresponding to the desired prescription, and select the user from the displayed dropdown menu. You can search for a user by entering text in the **Search** text box. You can remove a user from the assignment with the **X** to the right of their name.
 
 It is also possible to edit the assignment in the [details of a prescription](details.md).
 
-### Remove all assignments
+### Remove All Assignments
 
 Click on the cell under the 👤 column, on the row of the table corresponding to the desired variant, and select **No assignment**.
 
-### Filter by assignment
+### Filter By Assignment
 
 The ![filter](filter_icon.png) icon located in the header of the 👤 column allows you to filter the table based on the assigned user.
