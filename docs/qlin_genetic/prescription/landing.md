@@ -24,7 +24,7 @@ It is also possible to edit the assignment in the [details of a prescription](de
 
 ### Remove All Assignments
 
-Click on the cell under the 👤 column, on the row of the table corresponding to the desired variant, and select **No assignment**.
+Click on the cell under the 👤 column, on the row of the table corresponding to the desired prescription, and select **No assignment**.
 
 ### Filter By Assignment
 
