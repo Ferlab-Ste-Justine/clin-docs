@@ -32,7 +32,7 @@ Les hyperliens **SNV** et **CNV** de la colonne **Action** permettent de créer 
 
 ### OMIM lié au gène
 
-L’hyperlien sur le nom du gène permet de consulter la page liée à celui-ci dans [OMIM® - Online Mendelian Inheritance in Man®](https://www.omim.or)
+L’hyperlien sur le nom du gène permet de consulter la page liée à celui-ci dans [OMIM® - Online Mendelian Inheritance in Man®](https://www.omim.org)
 
 ### Téléchargement du rapport de couverture génique
 
