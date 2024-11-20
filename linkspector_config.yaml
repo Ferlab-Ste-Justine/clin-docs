@@ -1,0 +1,7 @@
+dirs:
+- docs
+useGitIgnore: true
+replacementPatterns:
+- pattern: "(fr/)(.*)"
+  replacement: '$2'
+baseUrl: http://localhost:3000

@@ -25,6 +25,16 @@ https://docsify.js.org/#/quickstart
 docsify serve docs
 ```
 
+### Broken hyperlinks test
+
+[Start locally](#to-start-locally) then run linkspector
+
+```
+linkspector check -c linkspector_config.yaml
+```
+
+https://github.com/UmbrellaDocs/linkspector
+
 #### Known issues
 
 Issue with images and alias (fr)
