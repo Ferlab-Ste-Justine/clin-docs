@@ -2,7 +2,7 @@
 
 The **Variants** tab of a prescription allows for the consultation of SNV and CNV genetic variants detected during the sequencing of a request.
 
-The use of the [filter manager](/qlin_genetic/_filter_manager/filter_manager.md) and the [filter sidebar](/qlin_genetic/filter_panel/filter_panel.md) facilitates the visualization of variants in the [tables](/qlin_genetic/tables/tables.md).
+The use of the [filter manager](/qlin_genetic/filters_manager/filters_manager) and the [filter sidebar](/qlin_genetic/filter_panel/filter_panel.md) facilitates the visualization of variants in the [tables](/qlin_genetic/tables/tables.md).
 
 ## Request
 

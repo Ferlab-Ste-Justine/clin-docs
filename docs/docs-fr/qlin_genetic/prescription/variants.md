@@ -2,7 +2,7 @@
 
 L’onglet **Variants** d’une prescription permet la consultation des variants génétiques SNV et CNV détectés lors du séquençage d’une requête.
 
-L'utilisation du [gestionnaire de filtres](/fr/qlin_genetic/_filter_manager/filter_manager.md) et du [panneau latéral de filtres](/fr/qlin_genetic/filter_panel/filter_panel.md) facilite la visualisation des variants dans les [tableaux](/fr/qlin_genetic/tables/tables.md).
+L'utilisation du [gestionnaire de filtres](/fr/qlin_genetic/filters_manager/filters_manager) et du [panneau latéral de filtres](/fr/qlin_genetic/filter_panel/filter_panel.md) facilite la visualisation des variants dans les [tableaux](/fr/qlin_genetic/tables/tables.md).
 
 ## Requêtes
 
