@@ -22,10 +22,10 @@ Click on the cell under the 👤 column, on the row of the table corresponding t
 
 It is also possible to edit the assignment in the [details of a prescription](details.md).
 
-### Remove All Assignments
+### Remove all Assignments
 
 Click on the cell under the 👤 column, on the row of the table corresponding to the desired prescription, and select **No assignment**.
 
-### Filter By Assignment
+### Filter by Assignment
 
 The ![filter](filter_icon.png) icon located in the header of the 👤 column allows you to filter the table based on the assigned user.
