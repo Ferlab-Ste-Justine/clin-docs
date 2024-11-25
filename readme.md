@@ -2,7 +2,7 @@
 
 ## Info
 
-User guide for CQGC Qlin Génétique and CQGC Qlin Prescription
+User guide for CQGC Qlin Genetics and CQGC Qlin Prescriptions
 
 ### Developments
 
