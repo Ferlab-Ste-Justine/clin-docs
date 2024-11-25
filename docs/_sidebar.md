@@ -1,7 +1,7 @@
 - Qlin Prescriptions
   - [Create a New Prescription](qlin_prescriptions/create_prescription.md)
   - [My prescriptions](qlin_prescriptions/my_prescription.md)
-- Qlin Genetic
+- Qlin Genetics
   - [Prescriptions](qlin_genetic/prescription/landing.md)
     - [Details](qlin_genetic/prescription/details.md)
     - [Variants](qlin_genetic/prescription/variants.md)
@@ -9,7 +9,7 @@
     - [Files](qlin_genetic/prescription/files.md)
   - [Archives](qlin_genetic/archives.md)
   - [Exploration](qlin_genetic/exploration.md)
-- Références
+- References
   - [Tables](qlin_genetic/tables/tables.md)
   - [Filter Sidebar](qlin_genetic/filter_panel/filter_panel.md)
   - [Filter Manager](qlin_genetic/filters_manager/filters_manager.md)
