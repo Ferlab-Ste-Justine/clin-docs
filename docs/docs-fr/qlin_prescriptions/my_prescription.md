@@ -12,4 +12,4 @@ Une prescription spécifique peut être consultée à l’aide de l’hyperlien 
 
 ## Imprimer PDF
 
-Le PDF de la prescription est téléchargeable à l’aide de l’icône de téléchargement sur chaque ligne. ![download icon](download_icon.png)
+Le PDF de la prescription est téléchargeable à l’aide de l’icône de téléchargement sur chaque ligne. ![download icon](https://raw.githubusercontent.com/Ferlab-Ste-Justine/clin-docs/main/docs/docs-fr/qlin_prescriptions/download_icon.png)

@@ -28,4 +28,4 @@ Cliquez sur la cellule sous la colonne 👤, sur la ligne du tableau corresponda
 
 ### Filtrer par assignation
 
-L'icône ![filtre](filter_icon.png) située dans l'entête de la colonne 👤 permet de filtrer le tableau en fonction de l'utilisateur assigné.
+L'icône ![filtre](https://raw.githubusercontent.com/Ferlab-Ste-Justine/clin-docs/main/docs/docs-fr/qlin_genetic/prescription/filter_icon.png) située dans l'entête de la colonne 👤 permet de filtrer le tableau en fonction de l'utilisateur assigné.
