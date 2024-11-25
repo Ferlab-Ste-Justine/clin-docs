@@ -8,4 +8,4 @@ Les hyperliens **Fichier** et **Index** sous la colonne **Actions** permettent d
 
 ## Analyse bioinformatique
 
-L’information détaillée sur l’[analyse bioinformatique](fr/qlin_genetic/prescription/details.md#analyse-bioinformatique) est accessible via l’hyperlien sur l’identifiant de l’analyse sous la colonne **Analyse bioinfo**.
+L’information détaillée sur l’[analyse bioinformatique](/fr/qlin_genetic/prescription/details) est accessible via l’hyperlien sur l’identifiant de l’analyse sous la colonne **Analyse bioinfo**.
