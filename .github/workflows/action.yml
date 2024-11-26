@@ -27,4 +27,4 @@ jobs:
       with:
         reporter: github-pr-review
         config_file: linkspector_config.yaml
-        fail_on_error: false
+        fail_on_error: true
