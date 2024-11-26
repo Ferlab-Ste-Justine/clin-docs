@@ -34,7 +34,7 @@ Cliquez sur la cellule sous la colonne des drapeaux, sur la ligne du tableau cor
 
 Il est possible d'indiquer de zéro à trois drapeaux différents par variant.
 
-![menu drapeau](flags_menu.png)
+![menu drapeau](https://raw.githubusercontent.com/Ferlab-Ste-Justine/clin-docs/main/docs/docs-fr/qlin_genetic/prescription/flags_menu.png)
 
 ### Retirer tous les drapeaux
 
@@ -42,7 +42,7 @@ Cliquez sur la cellule sous la colonne des drapeaux, sur la ligne du tableau cor
 
 ### Filtrer par drapeaux
 
-L'icône ![filtre](filter_icon.png) située dans l'entête de la colonne des drapeaux permet de filtrer le tableau en fonction d'un type de drapeau.
+L'icône ![filtre](https://raw.githubusercontent.com/Ferlab-Ste-Justine/clin-docs/main/docs/docs-fr/qlin_genetic/prescription/filter_icon.png) située dans l'entête de la colonne des drapeaux permet de filtrer le tableau en fonction d'un type de drapeau.
 
 ### Dernière mise à jour du drapeau
 

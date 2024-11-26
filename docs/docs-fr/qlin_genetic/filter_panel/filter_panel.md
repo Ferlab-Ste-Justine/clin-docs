@@ -4,7 +4,7 @@ Il est possible de filtrer les données affichées dans un tableau avec l'aide d
 
 ## Afficher et cacher
 
-Le panneau latéral de filtres peut être masqué pour offrir plus d’espace au tableau en utilisant l’icône ![MenuFoldIcon](MenuFoldIcon.png) située en haut. Il est également possible de le réafficher en utilisant l'icône ![MenuUnfoldIcon](MenuUnfoldIcon.png).
+Le panneau latéral de filtres peut être masqué pour offrir plus d’espace au tableau en utilisant l’icône ![MenuFoldIcon](https://raw.githubusercontent.com/Ferlab-Ste-Justine/clin-docs/main/docs/docs-fr/qlin_genetic/filter_panel/MenuFoldIcon.png) située en haut. Il est également possible de le réafficher en utilisant l'icône ![MenuUnfoldIcon](https://raw.githubusercontent.com/Ferlab-Ste-Justine/clin-docs/main/docs/docs-fr/qlin_genetic/filter_panel/MenuUnfoldIcon.png).
 
 ## Types de filtre
 
