@@ -10,6 +10,6 @@
   - [Archives](fr/qlin_genetic/archives.md)
   - [Exploration](fr/qlin_genetic/exploration.md)
 - Références
-  - [Tables](fr/qlin_genetic/tables/tables.md)
+  - [Tableaux](fr/qlin_genetic/tables/tables.md)
   - [Panneau latéral de filtres](fr/qlin_genetic/filter_panel/filter_panel.md)
   - [Gestionnaire de filtres](fr/qlin_genetic/filters_manager/filters_manager.md)

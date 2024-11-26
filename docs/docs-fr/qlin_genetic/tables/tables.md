@@ -4,7 +4,7 @@ Les fonctionnalités des tableaux à travers l’application sont identiques.
 
 ## Ordonnancement
 
-Lorsqu’une colonne peut être utilisée pour ordonner un tableau, une icône ![chevron haut-bas](updown_caret.png) est affichée. Un clic sur le titre de la colonne alterne entre un ordre ascendant, descendant et aucun tri.
+Lorsqu’une colonne peut être utilisée pour ordonner un tableau, une icône ![chevron haut-bas](https://raw.githubusercontent.com/Ferlab-Ste-Justine/clin-docs/main/docs/docs-fr/qlin_genetic/tables/updown_caret.png) est affichée. Un clic sur le titre de la colonne alterne entre un ordre ascendant, descendant et aucun tri.
 
 ## Pagination
 
@@ -22,4 +22,4 @@ La visibilité et l’ordonnancement des colonnes d’un tableau sont sauvegard�
 
 ## Exportation des données
 
-L’exportation des données contenues dans un tableau en format TSV s’effectue avec le bouton de téléchargement ![bouton de téléchargement](download_button.png) situé à droite de l’entête d’un tableau.
+L’exportation des données contenues dans un tableau en format TSV s’effectue avec le bouton de téléchargement ![bouton de téléchargement](https://raw.githubusercontent.com/Ferlab-Ste-Justine/clin-docs/main/docs/docs-fr/qlin_genetic/tables/download_button.png) situé à droite de l’entête d’un tableau.

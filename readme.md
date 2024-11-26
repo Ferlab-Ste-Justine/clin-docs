@@ -2,7 +2,7 @@
 
 ## Info
 
-User guide for CQGC Qlin Génétique and CQGC Qlin Prescription
+User guide for CQGC Qlin Genetics and CQGC Qlin Prescriptions
 
 ### Developments
 
@@ -34,6 +34,11 @@ linkspector check -c linkspector_config.yaml
 ```
 
 https://github.com/UmbrellaDocs/linkspector
+
+#### To start in Docker
+```
+docker-compose up
+```
 
 #### Known issues
 

@@ -12,11 +12,11 @@ Notez que le fait de sauvegarder un filtre ne fait que conserver les règles du 
 
 ### Nommer un filtre
 
-L’icône crayon ![crayon](editicon.png) permet de modifier le nom du filtre pour le retrouver plus facilement ultérieurement.
+L’icône crayon ![crayon](https://raw.githubusercontent.com/Ferlab-Ste-Justine/clin-docs/main/docs/docs-fr/qlin_genetic/filters_manager/editicon.png) permet de modifier le nom du filtre pour le retrouver plus facilement ultérieurement.
 
 ### Partager un filtre
 
-Suite à la [sauvegarde d'un filtre](#sauvegarder-un-filtre), l’icône ![partage](shareicon.png) vous permet de copier l’URL de celui-ci pour le partager avec d’autres utilisateurs de Qlin Génétique.
+Suite à la [sauvegarde d'un filtre](#sauvegarder-un-filtre), l’icône ![partage](https://raw.githubusercontent.com/Ferlab-Ste-Justine/clin-docs/main/docs/docs-fr/qlin_genetic/filters_manager/shareicon.png) vous permet de copier l’URL de celui-ci pour le partager avec d’autres utilisateurs de Qlin Génétique.
 
 ### Dupliquer un filtre
 

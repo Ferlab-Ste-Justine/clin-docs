@@ -32,7 +32,7 @@ The **SNV** and **CNV** hyperlinks in the **Action** column allow you to quickly
 
 ### OMIM Related to the Gene
 
-The hyperlink on the gene name allows you to view the page related to it in [OMIM® - Online Mendelian Inheritance in Man®](https://www.omim.or)
+The hyperlink on the gene name allows you to view the page related to it in [OMIM® - Online Mendelian Inheritance in Man®](https://www.omim.org)
 
 ### Gene Coverage Report Download
 
