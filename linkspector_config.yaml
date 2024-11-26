@@ -2,6 +2,6 @@ dirs:
 - docs
 useGitIgnore: true
 replacementPatterns:
-- pattern: "(fr/)(.*)"
+- pattern: "(fr/)(.*)(?<!https://raw.githubusercontent.com.*)"
   replacement: '$2'
 baseUrl: http://localhost:3000
