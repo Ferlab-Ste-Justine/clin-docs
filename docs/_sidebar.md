@@ -1,7 +1,7 @@
 - Qlin Prescriptions
   - [Create a New Prescription](qlin_prescriptions/create_prescription.md)
   - [My prescriptions](qlin_prescriptions/my_prescription.md)
-- Qlin Genetics
+- [Qlin Genetics](qlin_genetic/home.md)
   - [Prescriptions](qlin_genetic/prescription/landing.md)
     - [Details](qlin_genetic/prescription/details.md)
     - [Variants](qlin_genetic/prescription/variants.md)
