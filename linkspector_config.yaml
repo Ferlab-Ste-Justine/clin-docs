@@ -1,0 +1,14 @@
+dirs:
+- docs
+useGitIgnore: true
+replacementPatterns:
+- pattern: "(fr/)(.*)(?<!https://raw.githubusercontent.com.*)"
+  replacement: '$2'
+baseUrl: http://localhost:3000
+excludedFiles:
+- ./docs/qlin_genetic/home.md
+- ./docs/qlin_genetic/archives.md
+- ./docs/qlin_genetic/exploration.md
+- ./docs/docs-fr/qlin_genetic/home.md
+- ./docs/docs-fr/qlin_genetic/exploration.md
+- ./docs/docs-fr/qlin_genetic/archives.md

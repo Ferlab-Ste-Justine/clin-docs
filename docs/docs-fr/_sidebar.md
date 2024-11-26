@@ -1,7 +1,7 @@
 - Qlin Prescriptions
   - [Créer une nouvelle prescription](fr/qlin_prescriptions/create_prescription.md)
   - [Mes prescriptions](fr/qlin_prescriptions/my_prescription.md)
-- Qlin Génétique
+- [Qlin Génétique](fr/qlin_genetic/home.md)
   - [Prescriptions](fr/qlin_genetic/prescription/landing.md)
     - [Détails](fr/qlin_genetic/prescription/details.md)
     - [Contrôle qualité](fr/qlin_genetic/prescription/qc.md)

@@ -1,0 +1,30 @@
+name: Linkspector
+on: [ pull_request ]
+jobs:
+  check-links:
+    name: runner / linkspector
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+
+    # Step to set up Node.js environment
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: 'latest'
+
+    # Step to install Docsify CLI
+    - name: Install Docsify CLI
+      run: npm install -g docsify-cli@latest
+
+    # Step to start Docsify server
+    - name: Start Docsify server
+      run: docsify serve ./docs &
+
+    # Step to run Linkspector
+    - name: Run linkspector
+      uses: umbrelladocs/action-linkspector@v1
+      with:
+        reporter: github-pr-review
+        config_file: linkspector_config.yaml
+        fail_on_error: true
