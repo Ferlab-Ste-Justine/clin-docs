@@ -28,11 +28,11 @@
         --base-font-size: 14px;
         --secondary-color: #364a63;
         --base-font-weight: 400;
-        --heading-h1-font-size : 20px;
-        --heading-h2-font-size : 16px;
-        --heading-h3-font-size : var(--base-font-size);
+        --heading-h1-font-size: 20px;
+        --heading-h2-font-size: 16px;
+        --heading-h3-font-size: var(--base-font-size);
         --sidebar-background: #0a5085;
-        --sidebar-nav-link-color: #FFF;
+        --sidebar-nav-link-color: #fff;
       }
 
       body {
@@ -40,61 +40,65 @@
         font-size: var(--base-font-size);
         color: var(--secondary-color);
       }
-      body h1 .anchor  span{
+      body h1 .anchor span {
         color: var(--heading-color);
-        font-size: var( --heading-h1-font-size);
+        font-size: var(--heading-h1-font-size);
       }
 
-      body h2 .anchor  span{
+      body h2 .anchor span {
         color: var(--heading-color);
-        font-size: var( --heading-h2-font-size);
+        font-size: var(--heading-h2-font-size);
       }
 
-      body h3 .anchor  span{
+      body h3 .anchor span {
         color: var(--secondary-color);
-        font-size: var( --heading-h3-font-size);
+        font-size: var(--heading-h3-font-size);
       }
 
-      body .markdown-section p a{
+      body .markdown-section p a {
         font-weight: var(--base-font-weight);
       }
 
-      body .markdown-section p strong{
+      body .markdown-section p strong {
         color: var(--secondary-color);
       }
 
       body .search {
         border: none;
+        padding-top: 40px;
       }
 
-      .sidebar{
+      .sidebar {
         background-color: var(--sidebar-background);
       }
 
       .sidebar ul li {
-        color: var( --sidebar-nav-link-color);
+        color: var(--sidebar-nav-link-color);
         font-size: var(--heading-h2-font-size);
         font-weight: 600;
       }
       .sidebar ul li a {
-        color: var( --sidebar-nav-link-color);
+        color: var(--sidebar-nav-link-color);
         font-weight: 600;
-
       }
 
-      .sidebar ul li.active{
+      .sidebar ul li.active {
         background-color: var(--theme-color);
-        color: var( --sidebar-nav-link-color);
+        color: var(--sidebar-nav-link-color);
       }
-      .sidebar ul li.active a{
-        color: var( --sidebar-nav-link-color);
-
+      .sidebar ul li.active a {
+        color: var(--sidebar-nav-link-color);
       }
 
-      .sidebar-toggle{
+      .sidebar-toggle {
         background-color: var(--sidebar-background);
+        top: 0;
+        bottom: inherit;
       }
 
+      .sidebar-toggle:hover .sidebar-toggle-button span {
+        opacity: .8;
+      }
       .sidebar-toggle .sidebar-toggle-button span {
         background-color: var(--sidebar-nav-link-color);
       }
