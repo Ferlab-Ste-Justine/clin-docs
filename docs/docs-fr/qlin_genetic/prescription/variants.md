@@ -50,7 +50,7 @@ L'infobulle affichée sur une cellule sous la colonne des drapeaux indique le mo
 
 ## Notes
 
-Les notes vous permettent de sauvegarder des informations textuelles les variants génétiques d’intérêt d'une requête afin que vous puissiez les lire plus tard. Les notes sont accessibles à tous les généticiens du même laboratoire.
+Les notes vous permettent de sauvegarder des informations textuelles sur les variants génétiques d’intérêt d'une requête afin que vous puissiez les lire plus tard. Les notes sont accessibles à tous les généticiens du même laboratoire.
 
 L'icône de note pleine ![icon note pleine](https://raw.githubusercontent.com/Ferlab-Ste-Justine/clin-docs/main/docs/docs-fr/qlin_genetic/prescription/note_filled_icon.png) indique la présence d'une note sur un variant.
 
