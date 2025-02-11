@@ -52,7 +52,7 @@ L'infobulle affichée sur une cellule sous la colonne des drapeaux indique le mo
 
 Les notes vous permettent de sauvegarder des informations textuelles les variants génétiques d’intérêt d'une requête afin que vous puissiez les lire plus tard. Les notes sont accessibles à tous les généticiens du même laboratoire.
 
-L'icône de note plein ![icon note plein](https://raw.githubusercontent.com/Ferlab-Ste-Justine/clin-docs/main/docs/docs-fr/qlin_genetic/prescription/note_filled_icon.png) indique la présence d'une note sur un variant.
+L'icône de note pleine ![icon note pleine](https://raw.githubusercontent.com/Ferlab-Ste-Justine/clin-docs/main/docs/docs-fr/qlin_genetic/prescription/note_filled_icon.png) indique la présence d'une note sur un variant.
 
 ### Ajouter, consulter et modifier une note
 
@@ -60,7 +60,7 @@ Cliquez sur la cellule sous la colonne des notes ![en-tête de colonne des notes
 
 ### Retirer une note
 
-Cliquez sur la cellule sous la colonne des notes ![en-tête de colonne des notes](https://raw.githubusercontent.com/Ferlab-Ste-Justine/clin-docs/main/docs/docs-fr/qlin_genetic/prescription/note_column_header.png), sur la ligne du tableau correspondant au variant souhaité,  supprimez tout le contenu dans l'éditeur de notes, et enregistrez la modification.
+Cliquez sur la cellule sous la colonne des notes ![en-tête de colonne des notes](https://raw.githubusercontent.com/Ferlab-Ste-Justine/clin-docs/main/docs/docs-fr/qlin_genetic/prescription/note_column_header.png), sur la ligne du tableau correspondant au variant souhaité, supprimez tout le contenu dans l'éditeur de notes et enregistrez la modification.
 
 ### Filtrer par notes
 
