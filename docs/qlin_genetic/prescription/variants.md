@@ -48,3 +48,21 @@ The ![filter](filter_icon.png) icon located in the header of the flags column al
 
 The tooltip displayed on a cell under the flags column indicates the time and the user who last updated the flags for this variant.
 s
+
+## Notes
+
+Notes allow you to save text information on genetic variants of interest in a request so you can read it later. Notes are accessible to all geneticists in the same laboratory.
+
+The filled-in note icon ![filled note](note_filled_icon.png) indicates the presence of a note on a variant.
+
+### Adding, Consulting, and Editing a Note
+
+Click on the cell under the note column ![note column header](note_column_header.png), in the row of the table corresponding to the desired variant, to open the note editor.
+
+### Removing a Note
+
+Click on the cell under the note column ![note column header](note_column_header.png), in the row of the table corresponding to the desired variant, remove all the content in the note editor, and save the change.
+
+### Filter by Notes
+
+The ![filter](filter_icon.png) icon located in the header of the note column ![note column header](note_column_header.png) allows you to filter the table based on the presence or absence of a note.
