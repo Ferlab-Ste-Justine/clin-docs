@@ -16,6 +16,10 @@ Les boutons situés dans l’entête de l’onglet **Variants**, à droite de la
 
 Le **+** sur chaque ligne du tableau permet l'affichage d'un panneau imbriqué avec les informations détaillées de l'occurrence du variant pour la requête de séquençage.
 
+Le bouton **Interpret** ouvre la modale [Interprétation clinique](#interprétation-clinique).
+
+Le bouton **Télécharger rapport** télécharge le variant dans un fichier Excel.
+
 Le bouton **Ouvrir IGV** affiche les fichiers de séquençage positionnés sur le variant dans l'[Integrative Genomics Viewer](https://igv.org/).
 
 ## Drapeaux
@@ -65,3 +69,13 @@ Cliquez sur la cellule sous la colonne des notes ![en-tête de colonne des notes
 ### Filtrer par notes
 
 L'icône ![filtre](https://raw.githubusercontent.com/Ferlab-Ste-Justine/clin-docs/main/docs/docs-fr/qlin_genetic/prescription/filter_icon.png) située dans l'entête de la colonne des drapeaux vous permet de filtrer le tableau en fonction de la présence ou de l'absence d'une note.
+
+## Interprétation clinique
+
+La modale **Interprétation clinique** permet l'interprétation et la classification des variations de séquence SNV à partir d'une requête. Elle est accessible via le bouton **Interpret** de l'[Informations détaillées sur l'occurrence du variant](#informations-détaillées-sur-loccurrence-du-variant).
+
+Le formulaire suit la même structure, mais la classification utilise une terminologie différente pour les variations de séquence SNV somatiques et germinales.
+
+### Publication PubMed
+
+Vous pouvez ajouter une citation à l'**Interprétation clinique** en utilisant le lien **Ajouter une publication**, puis en entrant un PMID. Une fois qu'un PMID valide est saisi, il sera automatiquement remplacé par la citation au format NLM. Plus d'une citation peut être ajoutée à la même **Interprétation clinique**. Vous pouvez supprimer une citation d'une **Interprétation clinique** en utilisant le X à droite de la citation.
