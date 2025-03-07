@@ -1,6 +1,6 @@
 # Contrôle qualité d'une prescription
 
-L’onglet **CQ** d’une prescription permet de consulter diverses métriques de qualité liées au séquençage d’une requête.
+L’onglet **CQ** d’une prescription permet de consulter diverses métriques de qualité liées au séquençage d’une requête. Lorsqu'une métrique est hors de la plage recommandée, un petit cercle orange ou rouge est ajouté à l'onglet.
 
 ## Requêtes
 
@@ -9,6 +9,10 @@ La zone combinée située dans l’entête de l’onglet CQ permet de choisir la
 ## Métriques
 
 Le bouton **Général** situé dans l’entête de l’onglet à la droite de la zone combinée [Requête](#requêtes) permet d’afficher les métriques de qualité.
+
+### Sommaire
+
+Le sommaire liste les métriques les plus importantes. Lorsqu'une métrique est hors de la plage recommandée, un petit cercle orange ou rouge est visible. En survolant le cercle, plus d'informations s'afficheront dans une infobulle.
 
 ### Téléchargement du rapport des métriques
 

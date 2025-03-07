@@ -1,6 +1,6 @@
 # Prescription Quality Control
 
-The **QC** tab of a prescription allows you to view various quality metrics related to the sequencing of a request.
+The **QC** tab of a prescription allows you to view various quality metrics related to the sequencing of a request. When a metric is out of the recommended range, a small orange or red circle is added to the tab.
 
 ## Request
 
@@ -9,6 +9,10 @@ The combined area located in the header of the QC tab allows you to select the r
 ## Metrics
 
 The **General** button located in the header of the tab to the right of the combined [Request](#request) area allows you to display the quality metrics.
+
+### Summary
+
+The summary lists the most important metrics. When a metric is out of the recommended range, a small orange or red circle is visible. Hovering over the circle will display more information in a tooltip.
 
 ### Metrics Report Download
 
