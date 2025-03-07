@@ -79,4 +79,4 @@ The form follows the same layout, but the classification uses different terminol
 
 ### PubMed Publication
 
-You can add a citation to the**Clinical Interpretation** using the **Add a publication** link, then entering a PMID. Once a valid PMID is entered, it will be replaced by the NLM-styled citation automatically. More than one citation can be added to the same **Clinical Interpretation**. You can remove a citation from a **Clinical Interpretation** using the X at the right of the citation.
+You can add a citation to the **Clinical Interpretation** using the **Add a publication** link, then entering a PMID. Once a valid PMID is entered, it will be replaced by the NLM-styled citation automatically. More than one citation can be added to the same **Clinical Interpretation**. You can remove a citation from a **Clinical Interpretation** using the X at the right of the citation.

@@ -16,7 +16,7 @@ Les boutons situés dans l’entête de l’onglet **Variants**, à droite de la
 
 Le **+** sur chaque ligne du tableau permet l'affichage d'un panneau imbriqué avec les informations détaillées de l'occurrence du variant pour la requête de séquençage.
 
-Le bouton **Interpret** ouvre la modale [Interprétation clinique](#interprétation-clinique).
+Le bouton **Interpréter** ouvre la modale [Interprétation clinique](#interprétation-clinique).
 
 Le bouton **Télécharger rapport** télécharge le variant dans un fichier Excel.
 
@@ -72,7 +72,7 @@ L'icône ![filtre](https://raw.githubusercontent.com/Ferlab-Ste-Justine/clin-doc
 
 ## Interprétation clinique
 
-La modale **Interprétation clinique** permet l'interprétation et la classification des variations de séquence SNV à partir d'une requête. Elle est accessible via le bouton **Interpret** de l'[Informations détaillées sur l'occurrence du variant](#informations-détaillées-sur-loccurrence-du-variant).
+La modale **Interprétation clinique** permet l'interprétation et la classification des variations de séquence SNV à partir d'une requête. Elle est accessible via le bouton **Interpréter** de l'[Informations détaillées sur l'occurrence du variant](#informations-détaillées-sur-loccurrence-du-variant).
 
 Le formulaire suit la même structure, mais la classification utilise une terminologie différente pour les variations de séquence SNV somatiques et germinales.
 
