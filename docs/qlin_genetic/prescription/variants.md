@@ -74,15 +74,15 @@ The ![filter](filter_icon.png) icon located in the header of the note column ![n
 
 The **Clinical Interpretation** modal allows for the interpretation and classification of SNV sequence variations from a request.
 
-It is accessible via the **Interpret** button in [Detailed Information on the Occurrence of the SNV Variant](#detailed-information-on-the-occurrence-of-the-snv-variant) and from the Clinical Interpretation icon ![filled Clinical Interpretation](interpretation_filled_icon.png) in the SNV table.
+It is accessible via the **Interpret** button in [Detailed Information on the Occurrence of the SNV Variant](#detailed-information-on-the-occurrence-of-the-snv-variant) and from the clinical interpretation icon ![filled clinical interpretation](interpretation_filled_icon.png) in the SNV table.
 
 The form follows the same layout, but the classification uses different terminology for somatic and germline SNV sequence variations.
 
-The filled-in Clinical Interpretation icon ![filled Clinical Interpretation](interpretation_filled_icon.png) indicates the presence of a Clinical Interpretation on a variant.
+The filled in clinical interpretation icon ![filled clinical interpretation](interpretation_filled_icon.png) indicates the presence of a clinical interpretation on a variant.
 
 ### Filter by Clinical Interpretation
 
-The ![filter](filter_icon.png) icon located in the header of the Clinical Interpretation column ![Clinical Interpretation column header](interpretation_column_header.png) allows you to filter the table based on the presence or absence of a Clinical Interpretation.
+The ![filter](filter_icon.png) icon located in the header of the clinical interpretation column ![clinical interpretation column header](interpretation_column_header.png) allows you to filter the table based on the presence or absence of a clinical interpretation.
 
 ### PubMed Publication
 
