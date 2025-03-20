@@ -56,7 +56,7 @@ L'infobulle affichée sur une cellule sous la colonne des drapeaux indique le mo
 
 Les notes vous permettent de sauvegarder des informations textuelles sur les variants génétiques d’intérêt d'une requête afin que vous puissiez les lire plus tard. Les notes sont accessibles à tous les généticiens du même laboratoire.
 
-L'icône de note pleine ![icon note pleine](https://raw.githubusercontent.com/Ferlab-Ste-Justine/clin-docs/main/docs/docs-fr/qlin_genetic/prescription/note_filled_icon.png) indique la présence d'une note sur un variant.
+L'icône de note pleine ![icône note pleine](https://raw.githubusercontent.com/Ferlab-Ste-Justine/clin-docs/main/docs/docs-fr/qlin_genetic/prescription/note_filled_icon.png) indique la présence d'une note sur un variant.
 
 ### Ajouter, consulter et modifier une note
 
@@ -68,13 +68,21 @@ Cliquez sur la cellule sous la colonne des notes ![en-tête de colonne des notes
 
 ### Filtrer par notes
 
-L'icône ![filtre](https://raw.githubusercontent.com/Ferlab-Ste-Justine/clin-docs/main/docs/docs-fr/qlin_genetic/prescription/filter_icon.png) située dans l'entête de la colonne des drapeaux vous permet de filtrer le tableau en fonction de la présence ou de l'absence d'une note.
+L'icône ![filtre](https://raw.githubusercontent.com/Ferlab-Ste-Justine/clin-docs/main/docs/docs-fr/qlin_genetic/prescription/filter_icon.png) située dans l'entête de la colonne des notes vous permet de filtrer le tableau en fonction de la présence ou de l'absence d'une note.
 
 ## Interprétation clinique
 
-La modale **Interprétation clinique** permet l'interprétation et la classification des variations de séquence SNV à partir d'une requête. Elle est accessible via le bouton **Interpréter** de l'[Informations détaillées sur l'occurrence du variant](#informations-détaillées-sur-loccurrence-du-variant).
+La modale **Interprétation clinique** permet l'interprétation et la classification des variations de séquence SNV à partir d'une requête.
+
+Elle est accessible via le bouton **Interpréter** de l'[Informations détaillées sur l'occurrence du variant](#informations-détaillées-sur-loccurrence-du-variant) et via l'icône d'interprétation clinique ![icône interprétation clinique pleine](https://raw.githubusercontent.com/Ferlab-Ste-Justine/clin-docs/main/docs/qlin_genetic/prescription/interpretation_filled_icon.png) du tableau SNV.
 
 Le formulaire suit la même structure, mais la classification utilise une terminologie différente pour les variations de séquence SNV somatiques et germinales.
+
+L'icône pleine d'interprétation clinique ![icône interprétation clinique pleine](https://raw.githubusercontent.com/Ferlab-Ste-Justine/clin-docs/main/docs/qlin_genetic/prescription/interpretation_filled_icon.png) indique la présence d'une interprétation clinique sur un variant.
+
+### Filtrer par interprétation clinique
+
+L'icône ![filtre](https://raw.githubusercontent.com/Ferlab-Ste-Justine/clin-docs/main/docs/docs-fr/qlin_genetic/prescription/filter_icon.png) située dans l'entête de la colonne des interprétations cliniques ![en-tête de colonne des interprétations cliniques](https://raw.githubusercontent.com/Ferlab-Ste-Justine/clin-docs/main/docs/qlin_genetic/prescription/interpretation_column_header.png) vous permet de filtrer le tableau en fonction de la présence ou de l'absence d'une interprétation clinique.
 
 ### Publication PubMed
 

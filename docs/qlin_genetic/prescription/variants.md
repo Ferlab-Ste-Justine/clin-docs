@@ -51,7 +51,6 @@ The ![filter](filter_icon.png) icon located in the header of the flags column al
 ### Last Flag Update
 
 The tooltip displayed on a cell under the flags column indicates the time and the user who last updated the flags for this variant.
-s
 
 ## Notes
 
@@ -65,7 +64,7 @@ Click on the cell under the note column ![note column header](note_column_header
 
 ### Removing a Note
 
-Click on the cell under the note column ![note column header](note_column_header.png), in the row of the table corresponding to the desired variant, remove all the content in the note editor, and save the change.
+Click on the **cell** under the note column ![note column header](note_column_header.png), in the row of the table corresponding to the desired variant, remove all the content in the note editor, and save the change.
 
 ### Filter by Notes
 
@@ -73,9 +72,17 @@ The ![filter](filter_icon.png) icon located in the header of the note column ![n
 
 ## Clinical Interpretation
 
-The **Clinical Interpretation** modal allows for the interpretation and classification of SNV sequence variations from a request. It is accessible via the **Interpret** button in [Detailed Information on the Occurrence of the SNV Variant](#detailed-information-on-the-occurrence-of-the-snv-variant).
+The **Clinical Interpretation** modal allows for the interpretation and classification of SNV sequence variations from a request.
+
+It is accessible via the **Interpret** button in [Detailed Information on the Occurrence of the SNV Variant](#detailed-information-on-the-occurrence-of-the-snv-variant) and from the clinical interpretation icon ![filled clinical interpretation](interpretation_filled_icon.png) in the SNV table.
 
 The form follows the same layout, but the classification uses different terminology for somatic and germline SNV sequence variations.
+
+The filled in clinical interpretation icon ![filled clinical interpretation](interpretation_filled_icon.png) indicates the presence of a clinical interpretation on a variant.
+
+### Filter by Clinical Interpretation
+
+The ![filter](filter_icon.png) icon located in the header of the clinical interpretation column ![clinical interpretation column header](interpretation_column_header.png) allows you to filter the table based on the presence or absence of a clinical interpretation.
 
 ### PubMed Publication
 
