@@ -12,13 +12,19 @@ La zone combinée située dans l’entête de l’onglet **Variants** permet de 
 
 Les boutons situés dans l’entête de l’onglet **Variants**, à droite de la zone combinée, modifient la vue entre les variants génétiques de type SNV ou CNV.
 
+## Rapport CHUSJ
+
+Un bouton **Télécharger rapport CHUSJ** dans l’en-tête du tableau permet de télécharger un rapport Excel contenant un ou jusqu'à 100 SNV sélectionnés dans le tableau.
+
+Le bouton est actif lorsqu'un ou plusieurs variants sont sélectionnés dans le tableau.
+
 ## Informations détaillées sur l'occurrence du variant
 
 Le **+** sur chaque ligne du tableau permet l'affichage d'un panneau imbriqué avec les informations détaillées de l'occurrence du variant pour la requête de séquençage.
 
 Le bouton **Interpréter** ouvre la modale [Interprétation clinique](#interprétation-clinique).
 
-Le bouton **Télécharger rapport** télécharge le variant dans un fichier Excel.
+Le bouton **Rapport CHUSJ** télécharge le variant dans un fichier Excel.
 
 Le bouton **Ouvrir IGV** affiche les fichiers de séquençage positionnés sur le variant dans l'[Integrative Genomics Viewer](https://igv.org/).
 

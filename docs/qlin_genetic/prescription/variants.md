@@ -12,13 +12,19 @@ The combo box located in the header of the **Variants** tab allows you to choose
 
 The buttons located in the header of the **Variants** tab, to the right of the combo box, switch the view between SNV and CNV genetic variants.
 
+## Download report CHUSJ
+
+A **Download report CHUSJ** button in the table header allows downloading an Excel report containing one or up to 100 selected SNVs from the table.
+
+The button is active when one or more variants are selected in the table.
+
 ## Detailed Information on the Occurrence of the SNV Variant
 
 The **+** on each row of the table allows the display of an embedded panel with detailed information on the occurrence of the variant for the sequencing request.
 
 The **Interpret** button opens the [Clinical Interpretation](#clinical-interpretation) modal.
 
-The **Download report** button downloads the genetic variant in an Excel spreadsheet file.
+The **CHUSJ report** button downloads the genetic variant in an Excel spreadsheet file.
 
 The **Open IGV** button displays the sequencing files positioned on the variant in the [Integrative Genomics Viewer](https://igv.org/).
 
