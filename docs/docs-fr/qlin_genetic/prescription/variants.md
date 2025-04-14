@@ -14,7 +14,7 @@ Les boutons situés dans l’entête de l’onglet **Variants**, à droite de la
 
 ## Rapport CHUSJ
 
-Un bouton **Télécharger rapport CHUSJ** dans l’en-tête du tableau permet de télécharger un rapport Excel contenant un ou jusqu'à 100 SNV sélectionnés dans le tableau.
+Un bouton **Télécharger rapport CHUSJ** dans l’entête du tableau permet de télécharger un rapport Excel contenant un ou jusqu'à 100 SNV sélectionnés dans le tableau.
 
 Le bouton est actif lorsqu'un ou plusieurs variants sont sélectionnés dans le tableau.
 

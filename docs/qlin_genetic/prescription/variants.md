@@ -14,7 +14,7 @@ The buttons located in the header of the **Variants** tab, to the right of the c
 
 ## Download report CHUSJ
 
-A **Download report CHUSJ** button in the table header allows downloading an Excel report containing one or up to 100 selected SNVs from the table.
+A **Download report CHUSJ** button in the table header allows downloading an Excel report containing one or up to 100 selected SNV from the table.
 
 The button is active when one or more variants are selected in the table.
 
