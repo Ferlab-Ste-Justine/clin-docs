@@ -82,7 +82,7 @@ La modale **Interprétation clinique** permet l'interprétation et la classifica
 
 Elle est accessible via le bouton **Interpréter** de l'[Informations détaillées sur l'occurrence du variant](#informations-détaillées-sur-loccurrence-du-variant) et via l'icône d'interprétation clinique ![icône interprétation clinique pleine](https://raw.githubusercontent.com/Ferlab-Ste-Justine/clin-docs/main/docs/qlin_genetic/prescription/interpretation_filled_icon.png) du tableau SNV.
 
-Le formulaire suit la même structure, mais la classification utilise une terminologie différente pour les variations de séquence SNV somatiques et germinales.
+Le formulaire suit la même structure, mais la classification utilise une terminologie différente pour les variations de séquence SNV somatiques et germinaux.
 
 L'icône pleine d'interprétation clinique ![icône interprétation clinique pleine](https://raw.githubusercontent.com/Ferlab-Ste-Justine/clin-docs/main/docs/qlin_genetic/prescription/interpretation_filled_icon.png) indique la présence d'une interprétation clinique sur un variant.
 
