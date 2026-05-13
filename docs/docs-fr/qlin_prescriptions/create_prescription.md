@@ -16,10 +16,24 @@ Les informations d’identification d’un fœtus ou nouveau-né peuvent être e
 
 ## (2) Signes cliniques
 
-Cocher un ou plusieurs signes cliniques observés dans la liste de cases à cocher. Une fois cochée, une zone combinée obligatoire vous permettra de sélectionner l’âge d’apparition du signe clinique. Si le signe clinique observé ne fait pas partie de la liste préconfigurée selon l’analyse choisie, vous pouvez ajouter un signe clinique avec le lien (+) et effectuer la recherche basée sur le nom ou le code HPO.
-Un minimum d’un signe clinique observé est requis avant de pouvoir poursuivre à la prochaine étape du formulaire.
+Cette section permet de documenter les signes cliniques **observés** et **non observés** chez le patient à l’aide de termes HPO. Au moins un signe clinique observé est requis pour poursuivre à la prochaine étape.
 
-Au besoin, vous pouvez ajouter un ou des signes cliniques non observés et un commentaire clinique général dans les champs prévus à cet effet.
+**Signes cliniques OBSERVÉS**
+
+Deux sous-sections sont disponibles :
+
+- **Suggestions pour cette analyse** : liste de signes cliniques préconfigurés selon l’analyse choisie. Cochez ceux qui sont observés.
+- **Sélectionnés depuis l’arbre HPO** : si le signe observé ne fait pas partie des suggestions, cliquez sur **« Parcourir l’arbre HPO »** pour ouvrir la fenêtre de recherche. Vous pouvez y rechercher un terme par nom ou code HPO, ou naviguer dans l’arbre, puis cocher les signes voulus.
+
+Pour chaque signe observé coché, sélectionnez ensuite son **âge d’apparition** dans la liste déroulante qui apparaît.
+
+**Signes cliniques NON OBSERVÉS (optionnel)**
+
+Cliquez sur **« Ajouter signes NON OBSERVÉS »** pour ouvrir la même fenêtre de recherche et sélectionner les signes pertinents à l’analyse.
+
+**Commentaire clinique général (optionnel)**
+
+Un champ texte libre permet d’ajouter tout commentaire clinique pertinent à l’analyse.
 
 ## (3) Examens paracliniques
 

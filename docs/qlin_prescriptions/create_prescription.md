@@ -16,9 +16,24 @@ Identification information for a fetus or newborn can be entered in the ‘Addit
 
 ## (2) Clinical Signs
 
-Check one or more observed clinical signs from the list of checkboxes. Once checked, a mandatory combo box will allow you to select the age of onset of the clinical sign. If the observed clinical sign is not part of the preconfigured list according to the chosen analysis, you can add a clinical sign with the (+) link and search based on the name or HPO code. At least one observed clinical sign is required before proceeding to the next step of the form.
+This section is used to document the patient's **observed** and **non-observed** clinical signs using HPO terms. At least one observed clinical sign is required to proceed to the next step.
 
-If needed, you can add one or more unobserved clinical signs and a general clinical comment in the fields provided.
+**OBSERVED clinical signs**
+
+Two sub-sections are available:
+
+- **Suggestions for this analysis**: a list of clinical signs preconfigured based on the selected analysis. Check the ones that are observed.
+- **Selected from the HPO tree**: if the observed sign is not part of the suggestions, click **“Browse HPO tree”** to open the search window. You can search for a term by name or HPO code, or navigate the tree, and then check the desired signs.
+
+For each observed sign checked, then select its **age of onset** in the dropdown list that appears.
+
+**NON-OBSERVED clinical signs (optional)**
+
+Click **“Add NON-OBSERVED signs”** to open the same search window and select the signs relevant to the analysis.
+
+**General clinical comment (optional)**
+
+A free-text field is available to add any clinical comment relevant to the analysis.
 
 ## (3) Paraclinical Examinations
 
