@@ -15,7 +15,7 @@ jobs:
 
     # Step to install Docsify CLI
     - name: Install Docsify CLI
-      run: npm install -g docsify-cli@latest
+      run: npm install -g docsify-cli@4.4.4
 
     # Step to start Docsify server
     - name: Start Docsify server
